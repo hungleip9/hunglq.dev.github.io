@@ -807,7 +807,7 @@
 						</a>
 						<a href=""><div class="ct14-icon"><i class="fa fa-internet-explorer" aria-hidden="true"></i></div>
 						</a>
-					
+					 
 				</div>
 			</div>
 		</div>
